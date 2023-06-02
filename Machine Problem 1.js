@@ -1,4 +1,10 @@
-
+/*
+  Program: Computation of Grades using Function
+  Programmer: Oliver Gadwin Duzon
+  Section: AN22
+  Start Date: June 2, 2023
+  End Date: June 2, 2023
+*/
 function gradeCalcu() {
   var enaTotal = 0;
   var summTotal = 0;
